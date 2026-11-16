@@ -16,12 +16,12 @@ I am a Statistics graduate developing practical data analytics skills through ha
 
 ## Projects
 
-### 1. Analysing Museum Visitor Trends
+### [1. Analysing Museum Visitor Trends](01-Museum-Visitor-Analysis)
 An Excel-based project using a fictional museum visitor dataset to explore exhibition popularity, visitor satisfaction, and attendance patterns.
 
 **Tools:** Excel
 
-### 2. UK Household Financial Behaviour Analysis
+### [2. UK Household Financial Behaviour Analysis](02-UK-Household-Financial-Behaviour-Analysis)
 Analysis of a real Bank of England household survey dataset, exploring patterns in income, savings, spending, and debt.
 
 **Tools:** Excel and SQL
