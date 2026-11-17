@@ -22,6 +22,8 @@ The project used a **real household survey dataset published by the Bank of Engl
 - Prepared a clean CSV version of the data for SQL analysis.
 - Imported the dataset into a SQL database and practised filtering, grouping, counting, averages, sorting, and handling missing values.
 
+![UK Household Financial Behaviour Analysis](Excel%20PivotTable%20and%20Savings%20Behaviour%20Chart.png)
+
 ## Key Findings
 - Among the selected income groups, higher-income households were more likely to report that they had **saved more**.
 - Around **10.5%** of households earning £17,500–£24,999 reported saving more, compared with approximately **25.3%** of households earning £75,000–£99,999.
