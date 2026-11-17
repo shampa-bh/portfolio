@@ -25,6 +25,8 @@ The project used a fictional museum visitor dataset created with the help of AI 
 - Compared visitor attendance with visitor satisfaction to identify useful patterns.
 - Interpreted the results and considered how the findings could support museum decision-making.
 
+![Museum Visitor Analysis](Excel%20Visitor%20Distribution%20Dashboard.png)
+
 ## Key Findings
 - Music attracted the highest number of visitors, with 66 out of 200 visitor records.
 - Natural World had the lowest number of visitors, with 37, but achieved the highest average rating of 4.22 out of 5.
